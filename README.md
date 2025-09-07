@@ -1,5 +1,6 @@
 # KisanBazar
 
+
 **KisanBazar** is a full-stack web application developed to bridge the gap between farmers and consumers. It enables farmers to showcase their produce, connect with buyers, and build trust — all in one platform.
 
 🚀 **2nd place at the VIT Web Development Hackathon**  — built by Team CodeX 🏆
