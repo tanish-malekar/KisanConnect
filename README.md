@@ -49,6 +49,28 @@ Farmers in many regions face major hurdles:
 | 🛠️ Admin   | Manage users, products, order requests, and categories via dashboard              |
 | 🔐 Auth    | Role-based access control                                                         |
 
+---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/1.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/2.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/3.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/4.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/5.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/6.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/7.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/8.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/9.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/10.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/11.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/12.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/13.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/14.png" width="600"/><br/>
+  <img src="https://raw.githubusercontent.com/tanish-malekar/KisanConnect/refs/heads/main/screenshots/15.png" width="600"/>
+</p>
+
+---
 
 > Built with ❤️ by Team  CodeX | **VIT Web Development Hackathon** Winner at the Vellore Institute of Technology🏆
